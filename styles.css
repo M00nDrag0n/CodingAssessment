@@ -1,14 +1,39 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Spectral';font-size: 19px;
 }
 .Plagiarism-Prevention {
-  font-size: 8px;
-  border-radius: 8px;
-  height: auto;
-  width: 200px;
+  text-indent: 15px;
+  font-size: 9px;
+  width: 250px;
+  left: 10px;
+
 }
 
 .About {
-  float-right;
-  text-margin: 1250px;
+  position: absolute;
+  width: 850px;
+  left: 280px;
+  right: 50px;
+  top: 40px;
+
+}
+
+.List-of-Projects {
+
+}
+
+.Data1 {
+
+
+}
+
+.Data2 {
+
+
+}
+
+
+.Data3 {
+
+
 }
