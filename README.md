@@ -10,6 +10,8 @@ _This is literally just an experiment so I can figure out how to code. It is a V
 
 ## Setup/Installation Requirements
 
+* _(update 11/19/2019) Use this link [ ] to access the global version of this project!_
+* _Unless you want to.._
 * _clone the repository_
 * _double click the file within the repository that should show up on the Desktop, this should allow you to view the file using Google._
 * _scroll up and down_
@@ -28,10 +30,8 @@ _I'll figure this out when I'm done fixing this thing _
 
 ## Technologies Used
 
-_HTML_
-CSS
-JavaScript
-BootStrap
+_HTML, CSS, Bootstrap_
+
 
 ### License
 
